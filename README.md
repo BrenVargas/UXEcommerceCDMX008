@@ -1,5 +1,6 @@
 # Vidalís  
 
+
 ## Preámbulo
 
 El bienestar es una de las industrias de más rápido crecimiento en la actualidad. Es considerada por expertos, como la consultora Euromonitor, como una de las 10 mayores tendencias globales en 2017. Varias empresas alrededor del mundo se han unido a la ola de salud y México no se ha quedado atrás.
@@ -12,7 +13,7 @@ Siempre en la búsqueda de ofrecer una botana saludable y natural, Enrique desa
 
 ## Problemas indentificados en la investigación
 
-Al ser una empresa nueva que comenzará su operación comercial en noviembre de este año, nuestro principal objetivo es conectar a Vidalís a través de un canal de distribución como es el e-commerce con el cliente idóneo para que el producto tenga un mayor alcance y obtenga un excelente posicionamiento en el mercado mexicano.
+Al ser una empresa nueva que comenzará su operación comercial en noviembre de este año, nuestro principal objetivo es conectar a Vidalís a través de un canal de distribución como es el e-commerce con el cliente idóneo para que el producto tenga un mayor alcance y obtenga un excelente posicionamiento en el mercado exixtente actual en mexico.
 
 En el proceso de investigación descubrimos las siguientes problemáticas:
 
@@ -22,13 +23,11 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 ![insights](img/insights.png)
 
 
+
 ## Definición del público objetivo
 
 ![usermayorista1](Imagenes-invest/05-user-mayorista-maquina.png)
 ![usermayorista2](Imagenes-invest/07-user-mayorista-cafeteria.png)
-![userpersona](Imagenes-invest/09-user-persona-consumidor.png)
-
-
 
 
 ## Definición de la solución
@@ -44,4 +43,7 @@ En el proceso de investigación descubrimos las siguientes problemáticas:
 [Prototipo](https://www.figma.com/proto/TkWIuUo3YLGdTiVjHnfnE9/Vidalis?node-id=12%3A1&scaling=scale-down-width)
 
 [Documentación del proceso](http://bit.ly/DriveVidalis)
+
+Video loom https://www.loom.com/share/d626aa55861946f1815e56aee0383a10
+https://github.com/Thanya02/UXEcommerceCDMX008/tree/patch-1
 
